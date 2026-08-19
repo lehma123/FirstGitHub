@@ -1,1 +1,1 @@
-## Ensimmäinen GitHub-kokeilu
+## GitHub-kokeilu
